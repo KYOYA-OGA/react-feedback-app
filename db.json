@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 10,
+      "text": "This is a great product and I would recommend it to everyone."
+    },
+    {
+      "id": "2",
+      "rating": 3,
+      "text": "This is not a good product."
+    },
+    {
+      "text": "This is a updated awesome product and I would recommend it to everyone.",
+      "rating": 5,
+      "id": "3"
+    }
+  ]
+}
